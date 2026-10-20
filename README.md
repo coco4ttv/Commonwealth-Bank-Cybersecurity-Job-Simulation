@@ -13,6 +13,10 @@ My simulation work covered:
 
 These are summaries of the simulation tasks, not claims that I investigated real bank systems or detected actual fraud.
 
+## Task notes
+
+- [Web activity log analysis](./Web-Activity-Log-Analysis.md) — explains the 401/login/200/API request sequence shown in the supplied training log and guide, including limitations and privacy considerations.
+
 ## How to read this repository
 
 The files here are supporting material from the simulation. When documenting a specific task, I will explain the objective, the steps I actually took, the result shown by the exercise, and what I learned. I will not add invented findings or imply that sample data came from Commonwealth Bank's live environment.
